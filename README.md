@@ -1,24 +1,7 @@
 ### Hello Humans 👋
 
-- I'm *Laurencia BEHANZIN* but you can call me *Ayo*.
-- Ayo start programming at [EPITECH][epitech.bj] where she a software engineer circle.
-- She has left EPITECH two years later after learning a lot of things in C and C++ programming.
-- She is now interresting in web development especially in frontend.
-- She is about to start the [ALX SOFTWARE ENGINEERING PROGAMME][https://www.alxafrica.com/]. 
-
-
-
-<!--
-**Miss-Ayo/Miss-Ayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm *Laurencia BEHANZIN* but you can call me *Ayo*.
+Ayo start programming at [EPITECH](/"epitech.bj") where she a software engineer circle.
+She has left EPITECH two years later after learning a lot of things in C and C++ programming.
+She is now interresting in web development especially in frontend.
+She is about to start the [ALX SOFTWARE ENGINEERING PROGAMME](/"https://www.alxafrica.com/"). 
