@@ -6,7 +6,7 @@
 - 🚶🏾‍♀️ She has left EPITECH two years later after learning a lot of things in C and C++ programming.
 - 🎯 She is now interresting in web development especially in frontend.
 - 🤖 She also likes domotics by the way.
-- 🚀 She is about to start the [ALX SOFTWARE ENGINEERING PROGAMME](/"https://www.alxafrica.com/").
+- 🚀 She is currently doing the [ALX SOFTWARE ENGINEERING PROGAMME](/"https://www.alxafrica.com/").
 - ✍🏾 She'll tell about her experience in the ALX Software Engineering programme [here](/"https://sheiscoding.medium.com/"). 
 - 🌱 She is learning how to become one of the best software engineer in Africa.
 - 📫 She is available for all yours questions : **behanzinlaurencia@gmail.com**.
