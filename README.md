@@ -7,7 +7,6 @@
 - 🎯 She is excited to learn more about software engineering.
 - 🚀 She is currently doing the [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com) | Holberton School.
 - ✍🏾 She is talking about her journey as a software engineer [here](https://sheiscoding.medium.com). 
-- 🌱 She is learning how to become one of the best software engineer in the world.
 - 📫 She is available for all yours questions : [**behanzinlaurencia@gmail.com**](mailto:behanzinlaurencia@gmail.com).
 
 
@@ -17,6 +16,8 @@
 - 🇧🇯 She is Beninese.
 - 🏬 Her company's name is *Féminine*. Get more details [here](www.instagram.com/feminine.bj).
 - ❤️ She likes plants, nature, myths, manga, movies, etc...
+
+**GOAL :** become one of the best software engineer in the world.
 
 ***TOOLS AND TECHNOLOGIES :***
 
