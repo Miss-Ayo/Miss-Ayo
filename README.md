@@ -1,14 +1,13 @@
 ### Hello Humans 👋🏿
 
-*I'm Laurencia BEHANZIN but you can call me Ayo.*
+*I'm Laurencia BEHANZIN but you can call me Laura.*
 
-- 👩🏾‍💻 Ayo starts programming at [EPITECH](https://www.epitech.bj) in the software engineering circle.
+- 👩🏾‍💻 Laura starts programming at [EPITECH](https://www.epitech.bj) in the software engineering circle.
 - 🚶🏾‍♀️ She has left EPITECH two years later after learning a lot of things in C and C++ programming.
-- 🎯 She is now interresting in web development especially in frontend.
-- 🤖 She also likes domotics by the way.
+- 🎯 She is excited to learn more about software engineering.
 - 🚀 She is currently doing the [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com) | Holberton School.
-- ✍🏾 She'll tell about her experience in the ALX Software Engineering program [here](https://sheiscoding.medium.com). 
-- 🌱 She is learning how to become one of the best software engineer in Africa.
+- ✍🏾 She is talking about her journey as a software engineer [here](https://sheiscoding.medium.com). 
+- 🌱 She is learning how to become one of the best software engineer in the world.
 - 📫 She is available for all yours questions : [**behanzinlaurencia@gmail.com**](mailto:behanzinlaurencia@gmail.com).
 
 
@@ -18,8 +17,6 @@
 - 🇧🇯 She is Beninese.
 - 🏬 Her company's name is *Féminine*. Get more details [here](www.instagram.com/feminine.bj).
 - ❤️ She likes plants, nature, myths, manga, movies, etc...
-
-*You want to know more about here, check her [website](https://incredible-tire-b52.notion.site/Laurencia-BEHANZIN-86f95bde40eb4a6bbd2abae80a32a2fa).*
 
 ***TOOLS AND TECHNOLOGIES :***
 
