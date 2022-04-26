@@ -17,7 +17,8 @@
 - 🏬 Her company's name is *Féminine*. Get more details [here](www.instagram.com/feminine.bj).
 - ❤️ She likes plants, nature, myths, manga, movies, etc...
 
-**GOAL :** become one of the best software engineer in the world.
+***GOAL :***
+become one of the best software engineer in the world.
 
 ***TOOLS AND TECHNOLOGIES :***
 
