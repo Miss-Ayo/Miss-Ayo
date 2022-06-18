@@ -2,8 +2,7 @@
 
 *I'm Laurencia BEHANZIN but you can call me Laura.*
 
-- 👩🏾‍💻 Laura starts programming at [EPITECH](https://www.epitech.bj) in the software engineering circle.
-- 🚶🏾‍♀️ She has left EPITECH two years later after learning a lot of things in C and C++ programming.
+- 👩🏾‍💻 Laura starts programming not long ago.
 - 🎯 She is excited to learn more about software engineering.
 - 🚀 She is currently doing the [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com) | Holberton School.
 - ✍🏾 She is talking about her journey as a software engineer [here](https://sheiscoding.medium.com). 
