@@ -4,8 +4,6 @@
 
 - 👩🏾‍💻 Laura starts programming not long ago.
 - 🎯 She is excited to learn more about software engineering.
-- 🚀 She is currently doing the [ALX SOFTWARE ENGINEERING PROGRAM](https://www.alxafrica.com) | Holberton School.
-- ✍🏾 She is talking about her journey as a software engineer [here](https://sheiscoding.medium.com). 
 - 📫 She is available for all yours questions : [**behanzinlaurencia@gmail.com**](mailto:behanzinlaurencia@gmail.com).
 
 
